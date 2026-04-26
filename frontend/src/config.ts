@@ -4,7 +4,7 @@ import { Asset } from "@stellar/stellar-sdk";
 // These MUST match what the pool contract was initialized with.
 // Do not change without redeploying the pool.
 export const ORIGINAL_TOKEN_A_ID = "CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2HHGCYSC";
-export const ORIGINAL_TOKEN_B_ID = "CDTMHS477DKY2GZG6PQL5U7KGBST4B3IAVRBQMOXTP3VUNV4JZLHPF6P";
+export const ORIGINAL_TOKEN_B_ID = "CCUUYZWLVQ4QLFFPE4CBGTP7Q6JSPZ7HF54ETS5C2BSG7XPG4KLX6SFH";
 
 // ─── SDKE Issuer for Classic Asset (wallet visibility only) ───────────────
 // This is separate from the pool tokens. Used by the Faucet to send
