@@ -47,6 +47,20 @@ The Aura DEX features a bespoke design system called **Aura Glass**, which empha
 ### Desktop Dashboard
 ![Dashboard](https://raw.githubusercontent.com/shivaywww-design/Aura-Dex/main/public/screenshots/dashboard.png)
 
+### Feature Showcase
+
+| Swap Interface | Swap Success |
+| :---: | :---: |
+| ![Swap Interface](https://raw.githubusercontent.com/shivaywww-design/Aura-Dex/main/public/screenshots/swap_interface.png) | ![Swap Success](https://raw.githubusercontent.com/shivaywww-design/Aura-Dex/main/public/screenshots/swap_complete.png) |
+
+| Liquidity Provision | Inventory Update |
+| :---: | :---: |
+| ![Provide Liquidity](https://raw.githubusercontent.com/shivaywww-design/Aura-Dex/main/public/screenshots/provide_liquidity.png) | ![Inventory Updated](https://raw.githubusercontent.com/shivaywww-design/Aura-Dex/main/public/screenshots/inventory_updated.png) |
+
+| Live Activity Tracking |
+| :---: |
+| ![Live Activity](https://raw.githubusercontent.com/shivaywww-design/Aura-Dex/main/public/screenshots/live_activity.png) |
+
 ### Mobile Responsive View
 ![Mobile](https://raw.githubusercontent.com/shivaywww-design/Aura-Dex/main/public/screenshots/mobile.png)
 
